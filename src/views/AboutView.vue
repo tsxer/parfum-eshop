@@ -4,7 +4,7 @@
       class="about__hero"
       label="Discover"
       title="ABOUT LUXE AROMA"
-      imageSrc="/images/about/about_1.jpg"
+      imageSrc="/parfum-eshop/images/about/about_1.jpg"
     >
       <p>
         Luxe Aroma was founded with a vision to translate memories and emotions
@@ -17,7 +17,7 @@
       label="Craftsmanship"
       title="THE BEGINNING"
       :isReversed="true"
-      imageSrc="/images/about/about_2.jpg"
+      imageSrc="/parfum-eshop/images/about/about_2.jpg"
     >
       <p>
         In 1985, Jean-Claude Beaumont, a master perfumer trained in the

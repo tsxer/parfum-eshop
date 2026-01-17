@@ -4,17 +4,17 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: "Jean-Claude Beaumont",
     role: "Founder & Master Perfumer",
-    image: "/images/team/user_1.jpg"
+    image: "/parfum-eshop/images/team/user_1.jpg"
   },
   {
     name: "Dr. Amelia Rousseau",
     role: "Chief Fragrance Scientist",
-    image: "/images/team/user_2.jpg"
+    image: "/parfum-eshop/images/team/user_2.jpg"
   },
   {
     name: "Mia Hammond",
     role: "Head of Sourcing",
-    image: "/images/team/user_3.jpg"
+    image: "/parfum-eshop/images/team/user_3.jpg"
   }
 ];
 

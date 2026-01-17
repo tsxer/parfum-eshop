@@ -12,10 +12,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Mojave_Ghost/Mojave_Ghost_1.jpg",
-      "/images/products/Mojave_Ghost/Mojave_Ghost_2.jpg",
-      "/images/products/Mojave_Ghost/Mojave_Ghost_3.jpg",
-      "/images/products/Mojave_Ghost/Mojave_Ghost_4.jpg"
+      "/parfum-eshop/images/products/Mojave_Ghost/Mojave_Ghost_1.jpg",
+      "/parfum-eshop/images/products/Mojave_Ghost/Mojave_Ghost_2.jpg",
+      "/parfum-eshop/images/products/Mojave_Ghost/Mojave_Ghost_3.jpg",
+      "/parfum-eshop/images/products/Mojave_Ghost/Mojave_Ghost_4.jpg"
     ],
     description:
       "With its name meaning 'Ghost of the Mojave Desert', Mojave Ghost is a woody composition inspired by the soulful beauty of the Mojave Desert. In this xeric wilderness, rare are the plants that dare to blossom.",
@@ -36,10 +36,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Gypsy_Water/Gypsy_1.jpg",
-      "/images/products/Gypsy_Water/Gypsy_2.jpg",
-      "/images/products/Gypsy_Water/Gypsy_3.jpg",
-      "/images/products/Gypsy_Water/Gypsy_4.jpg"
+      "/parfum-eshop/images/products/Gypsy_Water/Gypsy_1.jpg",
+      "/parfum-eshop/images/products/Gypsy_Water/Gypsy_2.jpg",
+      "/parfum-eshop/images/products/Gypsy_Water/Gypsy_3.jpg",
+      "/parfum-eshop/images/products/Gypsy_Water/Gypsy_4.jpg"
     ],
     description:
       "Gypsy Water is inspired by the Romani lifestyle of a colorful caravan in the forest, with smoky, woody notes.",
@@ -60,10 +60,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Bal_dAfrique/Bal_1.jpg",
-      "/images/products/Bal_dAfrique/Bal_2.jpg",
-      "/images/products/Bal_dAfrique/Bal_3.jpg",
-      "/images/products/Bal_dAfrique/Bal_4.jpg"
+      "/parfum-eshop/images/products/Bal_dAfrique/Bal_1.jpg",
+      "/parfum-eshop/images/products/Bal_dAfrique/Bal_2.jpg",
+      "/parfum-eshop/images/products/Bal_dAfrique/Bal_3.jpg",
+      "/parfum-eshop/images/products/Bal_dAfrique/Bal_4.jpg"
     ],
     description:
       "Bal d'Afrique is a voyage to African culture and Paris in the late '20s, evoking the essence of Josephine Baker.",
@@ -84,10 +84,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Blanche/Blanche_1.jpg",
-      "/images/products/Blanche/Blanche_2.jpg",
-      "/images/products/Blanche/Blanche_3.jpg",
-      "/images/products/Blanche/Blanche_4.jpg"
+      "/parfum-eshop/images/products/Blanche/Blanche_1.jpg",
+      "/parfum-eshop/images/products/Blanche/Blanche_2.jpg",
+      "/parfum-eshop/images/products/Blanche/Blanche_3.jpg",
+      "/parfum-eshop/images/products/Blanche/Blanche_4.jpg"
     ],
     description:
       "A longstanding icon in our catalogue, Blanche explores the smell of texture and skin; bodies slipping beneath fresh sheets; laundry baskets filled to the brim; a punch of detergent. An aldehyde hit softens into delicate rose; through sandalwood and musk, the allure of human touch.",
@@ -108,10 +108,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Black_Saffron/Black_Saffron_1.jpg",
-      "/images/products/Black_Saffron/Black_Saffron_2.jpg",
-      "/images/products/Black_Saffron/Black_Saffron_3.jpg",
-      "/images/products/Black_Saffron/Black_Saffron_4.jpg"
+      "/parfum-eshop/images/products/Black_Saffron/Black_Saffron_1.jpg",
+      "/parfum-eshop/images/products/Black_Saffron/Black_Saffron_2.jpg",
+      "/parfum-eshop/images/products/Black_Saffron/Black_Saffron_3.jpg",
+      "/parfum-eshop/images/products/Black_Saffron/Black_Saffron_4.jpg"
     ],
     description:
       "Inspired by the sublime unity of Ben Gorham's Indian heritage, Black Saffron is a dry woody oriental fragrance. Saffron, the most sacred spice in India, is the heart of the scent, blending with leather and dark berries for a composition that is both smoky and sweet, evocative of warmth and deep cultural roots.",
@@ -132,10 +132,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Rose_No_Mans/Rose_1.jpg",
-      "/images/products/Rose_No_Mans/Rose_2.jpg",
-      "/images/products/Rose_No_Mans/Rose_3.jpg",
-      "/images/products/Rose_No_Mans/Rose_4.jpg"
+      "/parfum-eshop/images/products/Rose_No_Mans/Rose_1.jpg",
+      "/parfum-eshop/images/products/Rose_No_Mans/Rose_2.jpg",
+      "/parfum-eshop/images/products/Rose_No_Mans/Rose_3.jpg",
+      "/parfum-eshop/images/products/Rose_No_Mans/Rose_4.jpg"
     ],
     description:
       "A tribute to the nurses who saved thousands of lives during WWI, this scent is a sophisticated floral. Pink pepper provides the necessary optimism to break through the dry rose petals, while a heart of raspberry blossom and base of papyrus create a contemporary, almost medicinal elegance.",
@@ -156,10 +156,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Super_Cedar/Cedar_1.jpg",
-      "/images/products/Super_Cedar/Cedar_2.jpg",
-      "/images/products/Super_Cedar/Cedar_3.jpg",
-      "/images/products/Super_Cedar/Cedar_4.jpg"
+      "/parfum-eshop/images/products/Super_Cedar/Cedar_1.jpg",
+      "/parfum-eshop/images/products/Super_Cedar/Cedar_2.jpg",
+      "/parfum-eshop/images/products/Super_Cedar/Cedar_3.jpg",
+      "/parfum-eshop/images/products/Super_Cedar/Cedar_4.jpg"
     ],
     description:
       "A nostalgic scent that evokes school days and simpler times. Super Cedar is a powerful wood composition that is immediately recognizable. Cedarwood, one of the most familiar scents to the human nose, is modernised with silken musks and a hint of rose petal.",
@@ -180,10 +180,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Sunday_Cologne/Sunday_1.jpg",
-      "/images/products/Sunday_Cologne/Sunday_2.jpg",
-      "/images/products/Sunday_Cologne/Sunday_3.jpg",
-      "/images/products/Sunday_Cologne/Sunday_4.jpg"
+      "/parfum-eshop/images/products/Sunday_Cologne/Sunday_1.jpg",
+      "/parfum-eshop/images/products/Sunday_Cologne/Sunday_2.jpg",
+      "/parfum-eshop/images/products/Sunday_Cologne/Sunday_3.jpg",
+      "/parfum-eshop/images/products/Sunday_Cologne/Sunday_4.jpg"
     ],
     description:
       "A sharp, crisp and cologne-like fragrance, Sunday Cologne is the olfactory definition of a dapper gentleman. It balances citrus notes with spicy cardamon and a woody backdrop, making it perfect for both a relaxed Sunday morning and a formal occasion.",
@@ -204,10 +204,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Desert_Dawn/Desert_1.jpg",
-      "/images/products/Desert_Dawn/Desert_2.jpg",
-      "/images/products/Desert_Dawn/Desert_3.jpg",
-      "/images/products/Desert_Dawn/Desert_4.jpg"
+      "/parfum-eshop/images/products/Desert_Dawn/Desert_1.jpg",
+      "/parfum-eshop/images/products/Desert_Dawn/Desert_2.jpg",
+      "/parfum-eshop/images/products/Desert_Dawn/Desert_3.jpg",
+      "/parfum-eshop/images/products/Desert_Dawn/Desert_4.jpg"
     ],
     description:
       "Inspired by the creative juxtapositions of nature, Desert Dawn is a modern take on the woody family. It captures the dry heat of the desert and the first rays of dawn, blending spicy cardamom with a powerful heart of sandalwood and cedarwood for a scent that is both grounding and expansive.",
@@ -228,10 +228,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Oud_Immortel/Oud_1.jpg",
-      "/images/products/Oud_Immortel/Oud_2.jpg",
-      "/images/products/Oud_Immortel/Oud_3.jpg",
-      "/images/products/Oud_Immortel/Oud_4.jpg"
+      "/parfum-eshop/images/products/Oud_Immortel/Oud_1.jpg",
+      "/parfum-eshop/images/products/Oud_Immortel/Oud_2.jpg",
+      "/parfum-eshop/images/products/Oud_Immortel/Oud_3.jpg",
+      "/parfum-eshop/images/products/Oud_Immortel/Oud_4.jpg"
     ],
     description:
       "Oud Immortel is a woody fragrance where patchouli and papyrus are blended to bring smokiness. The tobacco leaves and moss add depth and complexity while the incense and rosewood provide an elegant, ambery trail. It is a complex, dark, yet fresh interpretation of traditional oud.",
@@ -252,10 +252,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/M_Mink/Mink_1.jpg",
-      "/images/products/M_Mink/Mink_2.jpg",
-      "/images/products/M_Mink/Mink_3.jpg",
-      "/images/products/M_Mink/Mink_4.jpg"
+      "/parfum-eshop/images/products/M_Mink/Mink_1.jpg",
+      "/parfum-eshop/images/products/M_Mink/Mink_2.jpg",
+      "/parfum-eshop/images/products/M_Mink/Mink_3.jpg",
+      "/parfum-eshop/images/products/M_Mink/Mink_4.jpg"
     ],
     description:
       "A collaborative effort between us and creative partnership M/M (Paris). M/MINK is a truly unique scent inspired by a block of solid ink, a photograph showing a Japanese master practicing his calligraphy, and a large utopian formula. The result is a hypnotic, smoky and inky composition.",
@@ -276,10 +276,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Flowerhead/Flower_1.jpg",
-      "/images/products/Flowerhead/Flower_2.jpg",
-      "/images/products/Flowerhead/Flower_3.jpg",
-      "/images/products/Flowerhead/Flower_4.jpg"
+      "/parfum-eshop/images/products/Flowerhead/Flower_1.jpg",
+      "/parfum-eshop/images/products/Flowerhead/Flower_2.jpg",
+      "/parfum-eshop/images/products/Flowerhead/Flower_3.jpg",
+      "/parfum-eshop/images/products/Flowerhead/Flower_4.jpg"
     ],
     description:
       "A celebration of the traditional Indian wedding, where flower heads are strung together in giant garlands. Flowerhead is an explosion of white florals: wild jasmine sambac, tuberose, and rose petals, brightened by Sicilian lemon and cranberry for a lush, feminine radiance.",
@@ -300,10 +300,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Inflorescence/Inflo_1.jpg",
-      "/images/products/Inflorescence/Inflo_2.jpg",
-      "/images/products/Inflorescence/Inflo_3.jpg",
-      "/images/products/Inflorescence/Inflo_4.jpg"
+      "/parfum-eshop/images/products/Inflorescence/Inflo_1.jpg",
+      "/parfum-eshop/images/products/Inflorescence/Inflo_2.jpg",
+      "/parfum-eshop/images/products/Inflorescence/Inflo_3.jpg",
+      "/parfum-eshop/images/products/Inflorescence/Inflo_4.jpg"
     ],
     description:
       "A tribute to the rebirth of nature and the first signs of spring. Inflorescence is a powerful, floral scent that captures the strength and beauty of a wild garden in bloom. Notes of lily of the valley and freesia create a intoxicating, fresh, and purely feminine experience.",
@@ -324,10 +324,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/La_Tulipe/Tulipe_1.jpg",
-      "/images/products/La_Tulipe/Tulipe_2.jpg",
-      "/images/products/La_Tulipe/Tulipe_3.jpg",
-      "/images/products/La_Tulipe/Tulipe_4.jpg"
+      "/parfum-eshop/images/products/La_Tulipe/Tulipe_1.jpg",
+      "/parfum-eshop/images/products/La_Tulipe/Tulipe_2.jpg",
+      "/parfum-eshop/images/products/La_Tulipe/Tulipe_3.jpg",
+      "/parfum-eshop/images/products/La_Tulipe/Tulipe_4.jpg"
     ],
     description:
       "A fresh and clean fragrance built around the idea of the tulip—a flower that symbolizes the rebirth of spring. La Tulipe is simple, shy, and incredibly elegant. It captures the smell of dew-covered gardens and the crisp sweetness of a first bloom.",
@@ -348,10 +348,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Young_Rose/Young_1.jpg",
-      "/images/products/Young_Rose/Young_2.jpg",
-      "/images/products/Young_Rose/Young_3.jpg",
-      "/images/products/Young_Rose/Young_4.jpg"
+      "/parfum-eshop/images/products/Young_Rose/Young_1.jpg",
+      "/parfum-eshop/images/products/Young_Rose/Young_2.jpg",
+      "/parfum-eshop/images/products/Young_Rose/Young_3.jpg",
+      "/parfum-eshop/images/products/Young_Rose/Young_4.jpg"
     ],
     description:
       "Young Rose presents an ode to the perennial restlessness of youth: an olfactory diary for those who are writing their own future. By layering fiery Sichuan pepper upon a foundation of Damascena rose, the fragrance deliberately defies convention, offering a twisted take on classic romance.",
@@ -372,9 +372,9 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: true,
     images: [
-      "/images/products/Gypsy_Water_Absolu/Gypsy_Absolu_1.jpg",
-      "/images/products/Gypsy_Water_Absolu/Gypsy_Absolu_2.jpg",
-      "/images/products/Gypsy_Water_Absolu/Gypsy_Absolu_3.jpg"
+      "/parfum-eshop/images/products/Gypsy_Water_Absolu/Gypsy_Absolu_1.jpg",
+      "/parfum-eshop/images/products/Gypsy_Water_Absolu/Gypsy_Absolu_2.jpg",
+      "/parfum-eshop/images/products/Gypsy_Water_Absolu/Gypsy_Absolu_3.jpg"
     ],
     description:
       "An intensified interpretation of the iconic Gypsy Water. The Absolu de Parfum heightens the woody and aromatic facets of the original composition, creating a more visceral and long-lasting experience. Notes of precious incense and pine needle are amplified by a richer base of amber and sandalwood, evoking the heat of a nomadic night.",
@@ -395,9 +395,9 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: true,
     images: [
-      "/images/products/Bal_dAfrique_Absolu/Bal_Absolu_1.jpg",
-      "/images/products/Bal_dAfrique_Absolu/Bal_Absolu_2.jpg",
-      "/images/products/Bal_dAfrique_Absolu/Bal_Absolu_3.jpg"
+      "/parfum-eshop/images/products/Bal_dAfrique_Absolu/Bal_Absolu_1.jpg",
+      "/parfum-eshop/images/products/Bal_dAfrique_Absolu/Bal_Absolu_2.jpg",
+      "/parfum-eshop/images/products/Bal_dAfrique_Absolu/Bal_Absolu_3.jpg"
     ],
     description:
       "A rich, highly concentrated reimagining of the classic Bal d'Afrique. The Absolu de Parfum distills the essence of 1920s Paris and its fascination with African culture into a more profound signature. The vibrant marigold and bergamot are now anchored by an intensified heart of Moroccan cedarwood and a dark, velvety vetiver base that lingers with exceptional tenacity.",
@@ -418,9 +418,9 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: true,
     images: [
-      "/images/products/Blanche_Absolu/Blanche_Absolu_1.jpg",
-      "/images/products/Blanche_Absolu/Blanche_Absolu_2.jpg",
-      "/images/products/Blanche_Absolu/Blanche_Absolu_3.jpg"
+      "/parfum-eshop/images/products/Blanche_Absolu/Blanche_Absolu_1.jpg",
+      "/parfum-eshop/images/products/Blanche_Absolu/Blanche_Absolu_2.jpg",
+      "/parfum-eshop/images/products/Blanche_Absolu/Blanche_Absolu_3.jpg"
     ],
     description:
       "An intensified exploration of texture and skin. Blanche Absolu elevates the original's purity to a new level of sophistication. The crystalline clarity of aldehydes is softened by a richer heart of white rose, while the base is fortified with an overdose of precious sandalwood and skin-musks, creating a scent that is both ethereal and profoundly intimate.",
@@ -441,9 +441,9 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: true,
     images: [
-      "/images/products/Mojave_Ghost_Absolu/Mojave_Absolu_1.jpg",
-      "/images/products/Mojave_Ghost_Absolu/Mojave_Absolu_2.jpg",
-      "/images/products/Mojave_Ghost_Absolu/Mojave_Absolu_3.jpg"
+      "/parfum-eshop/images/products/Mojave_Ghost_Absolu/Mojave_Absolu_1.jpg",
+      "/parfum-eshop/images/products/Mojave_Ghost_Absolu/Mojave_Absolu_2.jpg",
+      "/parfum-eshop/images/products/Mojave_Ghost_Absolu/Mojave_Absolu_3.jpg"
     ],
     description:
       "A profound distillation of the soulful Mojave Desert. The Absolu de Parfum amplifies the ethereal beauty of the original composition, lending a new, carnal depth to the scent. The sweetness of Jamaican Nesberry is heightened, while the powdery heart of Violet and Magnolia settles into an intensified, creamy foundation of Mysore Sandalwood and crisp Amber.",
@@ -464,11 +464,11 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Cuir_Sellier/Cuir_1.jpg",
-      "/images/products/Cuir_Sellier/Cuir_2.jpg",
-      "/images/products/Cuir_Sellier/Cuir_3.jpg",
-      "/images/products/Cuir_Sellier/Cuir_4.jpg",
-      "/images/products/Cuir_Sellier/Cuir_5.jpg"
+      "/parfum-eshop/images/products/Cuir_Sellier/Cuir_1.jpg",
+      "/parfum-eshop/images/products/Cuir_Sellier/Cuir_2.jpg",
+      "/parfum-eshop/images/products/Cuir_Sellier/Cuir_3.jpg",
+      "/parfum-eshop/images/products/Cuir_Sellier/Cuir_4.jpg",
+      "/parfum-eshop/images/products/Cuir_Sellier/Cuir_5.jpg"
     ],
     description:
       "A distinguished member of the Night Veils, Cuir Sellier is a visceral, smoky masterpiece. It captures the scent of a saddler's atelier where the raw power of leather is fused with rare Agarwood (Oud) and Birch Tar. A fragrance for those who seek the animalic depth of the orient combined with dark, tannic wood.",
@@ -489,11 +489,11 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Bois_Obscur/Bois_1.jpg",
-      "/images/products/Bois_Obscur/Bois_2.jpg",
-      "/images/products/Bois_Obscur/Bois_3.jpg",
-      "/images/products/Bois_Obscur/Bois_4.jpg",
-      "/images/products/Bois_Obscur/Bois_5.jpg"
+      "/parfum-eshop/images/products/Bois_Obscur/Bois_1.jpg",
+      "/parfum-eshop/images/products/Bois_Obscur/Bois_2.jpg",
+      "/parfum-eshop/images/products/Bois_Obscur/Bois_3.jpg",
+      "/parfum-eshop/images/products/Bois_Obscur/Bois_4.jpg",
+      "/parfum-eshop/images/products/Bois_Obscur/Bois_5.jpg"
     ],
     description:
       "Bois Obscur is a mysterious journey into the heart of a shadowed forest. This composition brings forward a scorched earth aesthetic, where Guaiac Wood and Patchouli are intensified by a smoky Oud infusion. It is a scent of charred wood and midnight air, designed for an enigmatic presence.",
@@ -514,11 +514,11 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Rouge_Chaotique/Rouge_1.jpg",
-      "/images/products/Rouge_Chaotique/Rouge_2.jpg",
-      "/images/products/Rouge_Chaotique/Rouge_3.jpg",
-      "/images/products/Rouge_Chaotique/Rouge_4.jpg",
-      "/images/products/Rouge_Chaotique/Rouge_5.jpg"
+      "/parfum-eshop/images/products/Rouge_Chaotique/Rouge_1.jpg",
+      "/parfum-eshop/images/products/Rouge_Chaotique/Rouge_2.jpg",
+      "/parfum-eshop/images/products/Rouge_Chaotique/Rouge_3.jpg",
+      "/parfum-eshop/images/products/Rouge_Chaotique/Rouge_4.jpg",
+      "/parfum-eshop/images/products/Rouge_Chaotique/Rouge_5.jpg"
     ],
     description:
       "The first oud fragrance in the Night Veils collection, Rouge Chaotique is inspired by Ben Gorham's belief that chaos can be creative. It is a powerful, deep composition where the animalic potency of Oud meets a syrupy, rebellious sweetness of Plum and Raspberry, creating a truly hypnotic trail.",
@@ -539,10 +539,10 @@ export const products: Product[] = [
     type: "Individual",
     isLimited: false,
     images: [
-      "/images/products/Vanille_Antique/Vanille_1.jpg",
-      "/images/products/Vanille_Antique/Vanille_2.jpg",
-      "/images/products/Vanille_Antique/Vanille_3.jpg",
-      "/images/products/Vanille_Antique/Vanille_4.jpg"
+      "/parfum-eshop/images/products/Vanille_Antique/Vanille_1.jpg",
+      "/parfum-eshop/images/products/Vanille_Antique/Vanille_2.jpg",
+      "/parfum-eshop/images/products/Vanille_Antique/Vanille_3.jpg",
+      "/parfum-eshop/images/products/Vanille_Antique/Vanille_4.jpg"
     ],
     description:
       "A part of the Night Veils collection, Vanille Antique is a concentrated extrait de parfum that redefines the sweet ingredient. It is a smoky, woody composition where the raw sweetness of vanilla bean is anchored by a powerful base of black amber and Agarwood (Oud), creating a ritualistic and profound olfactory experience.",
@@ -567,9 +567,9 @@ export const products: Product[] = [
     composition: ["Bal d'Afrique", "Blanche", "Gypsy Water"],
     notes: { top: [], heart: [], base: [] },
     images: [
-      "/images/products/La_Selection_Byredo/Selection_1.jpg",
-      "/images/products/La_Selection_Byredo/Selection_2.jpg",
-      "/images/products/La_Selection_Byredo/Selection_3.jpg"
+      "/parfum-eshop/images/products/La_Selection_Byredo/Selection_1.jpg",
+      "/parfum-eshop/images/products/La_Selection_Byredo/Selection_2.jpg",
+      "/parfum-eshop/images/products/La_Selection_Byredo/Selection_3.jpg"
     ]
   },
   {
@@ -587,9 +587,9 @@ export const products: Product[] = [
     composition: ["Black Saffron", "Super Cedar", "Bibliothèque"],
     notes: { top: [], heart: [], base: [] },
     images: [
-      "/images/products/La_Selection_Boisee/Boisee_1.jpg",
-      "/images/products/La_Selection_Boisee/Boisee_2.jpg",
-      "/images/products/La_Selection_Boisee/Boisee_3.jpg"
+      "/parfum-eshop/images/products/La_Selection_Boisee/Boisee_1.jpg",
+      "/parfum-eshop/images/products/La_Selection_Boisee/Boisee_2.jpg",
+      "/parfum-eshop/images/products/La_Selection_Boisee/Boisee_3.jpg"
     ]
   },
   {
@@ -607,9 +607,9 @@ export const products: Product[] = [
     composition: ["Blanche", "La Tulipe", "Rose of No Man's Land"],
     notes: { top: [], heart: [], base: [] },
     images: [
-      "/images/products/La_Selection_Florale/Florale_1.jpg",
-      "/images/products/La_Selection_Florale/Florale_2.jpg",
-      "/images/products/La_Selection_Florale/Florale_3.jpg"
+      "/parfum-eshop/images/products/La_Selection_Florale/Florale_1.jpg",
+      "/parfum-eshop/images/products/La_Selection_Florale/Florale_2.jpg",
+      "/parfum-eshop/images/products/La_Selection_Florale/Florale_3.jpg"
     ]
   },
   {
@@ -627,9 +627,9 @@ export const products: Product[] = [
     composition: ["Bal d'Afrique", "Blanche", "Gypsy Water"],
     notes: { top: [], heart: [], base: [] },
     images: [
-      "/images/products/La_Selection_Nomade/Nomade_1.jpg",
-      "/images/products/La_Selection_Nomade/Nomade_2.jpg",
-      "/images/products/La_Selection_Nomade/Nomade_3.jpg"
+      "/parfum-eshop/images/products/La_Selection_Nomade/Nomade_1.jpg",
+      "/parfum-eshop/images/products/La_Selection_Nomade/Nomade_2.jpg",
+      "/parfum-eshop/images/products/La_Selection_Nomade/Nomade_3.jpg"
     ]
   }
 ];
