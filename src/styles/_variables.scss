@@ -1,0 +1,51 @@
+@use "sass:math";
+
+$c-white: #ffffff;
+$c-black: #000000;
+$c-dark-bg: #111111;
+$c-border-light: rgba(0, 0, 0, 0.06);
+$c-border-dark: #222222;
+
+$c-text-main: $c-black;
+$c-text-muted: #888888;
+$c-text-apple: #86868b;
+$c-text-legal: #444444;
+$c-text-header: #555555;
+
+$font-apple-display:
+  "SF Pro Display",
+  -apple-system,
+  BlinkMacSystemFont,
+  sans-serif;
+$font-apple-text:
+  "SF Pro Text",
+  -apple-system,
+  BlinkMacSystemFont,
+  sans-serif;
+
+@mixin luxury-label($size: 11px, $spacing: 0.2em) {
+  font-family: $font-apple-text;
+  font-size: $size;
+  text-transform: uppercase;
+  letter-spacing: $spacing;
+  font-weight: 500;
+}
+@mixin transition-standard {
+  transition: all 0.2s ease-in-out;
+}
+
+@mixin section-spacing {
+  padding: clamp(5rem, 10vw, 10rem) 1.25rem;
+
+  @media (max-width: 48rem) {
+    padding: 4rem 1rem;
+  }
+}
+
+@function rem($px) {
+  @return math.div($px, 16) * 1rem;
+}
+
+$tr-smooth: all 0.3s ease-in-out;
+
+$h-header: 70px;
